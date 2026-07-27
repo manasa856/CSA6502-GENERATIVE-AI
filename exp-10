@@ -1,0 +1,68 @@
+5. Design Zero-shot, One-shot, and Few-shot Prompts to Generate a Promotional Social Media Post for an AI Workshop
+Zero-shot Prompt
+
+Prompt:
+
+Write a promotional social media post for an AI Workshop. Highlight the workshop's benefits, encourage participation, and include a call to action. Keep the tone engaging and suitable for platforms like Instagram, LinkedIn, or Facebook.
+
+One-shot Prompt
+
+Prompt:
+
+Example:
+
+Task: Write a promotional social media post for a Python Programming Workshop.
+
+Post:
+ Join our Python Programming Workshop and learn coding from industry experts! Gain hands-on experience, work on real-world projects, and earn a certificate. Register today and kick-start your programming journey! #Python #Coding #Workshop
+
+Now write a similar promotional post for an AI Workshop.
+
+Few-shot Prompt
+
+Prompt:
+
+Example 1:
+ Join our Web Development Workshop and build responsive websites with expert guidance. Register now!
+
+Example 2:
+
+ Master Data Science through hands-on projects and practical sessions. Limited seats available—Enroll today!
+
+Example 3:
+
+ Learn Cybersecurity fundamentals from industry professionals. Gain practical skills and earn a certificate. Sign up now!
+
+Now generate a promotional social media post for an AI Workshop.
+
+Generated Social Media Post
+
+ Unlock the Future with AI! 
+
+Join our AI Workshop and explore the exciting world of Artificial Intelligence. Learn Machine Learning, Deep Learning, ChatGPT, and real-world AI applications through interactive hands-on sessions led by industry experts.
+
+ What You'll Get:
+
+Hands-on AI projects
+Expert guidance
+Certificate of Participation
+Networking opportunities
+
+ Limited Seats Available!
+Register now and take the first step toward a successful career in AI.
+
+#AI #ArtificialIntelligence #MachineLearning #DeepLearning #Workshop #Technology #Innovation #CareerGrowth
+
+Comparison
+Criteria	Zero-shot	One-shot	Few-shot
+Creativity	Good	Better	Excellent
+Tone	Engaging	Professional	Highly Engaging
+Structure	Simple	Well-organized	Most polished
+Completeness	Covers basic details	Includes benefits	Includes benefits, CTA, and hashtags
+Overall Quality	Good	Very Good	Best
+
+Conclusion:
+
+Zero-shot generates a basic promotional post without examples.
+One-shot improves quality by following one example.
+Few-shot produces the most engaging and professional social media post with a strong call to action and effective formatting.
