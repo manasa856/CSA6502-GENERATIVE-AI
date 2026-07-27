@@ -1,0 +1,76 @@
+3. Zero-shot, One-shot, and Few-shot Prompt Design for Article Summarization
+Sample Article
+
+Artificial Intelligence (AI) is transforming healthcare by improving disease diagnosis, treatment planning, and patient care. AI-powered systems analyze medical images with high accuracy, helping doctors detect diseases early. Virtual assistants provide health advice and appointment scheduling. Wearable devices continuously monitor vital signs such as heart rate and blood oxygen levels. AI also accelerates drug discovery by analyzing large datasets, reducing research time and costs. Although AI offers many benefits, challenges such as data privacy, security, and ethical concerns must be addressed. With continuous advancements, AI is expected to make healthcare more efficient, accessible, and personalized.
+
+A) Zero-shot Prompt
+
+Prompt:
+
+Summarize the following article in exactly 50 words using clear and concise language.
+
+Generated Summary (50 words)
+
+Artificial Intelligence is revolutionizing healthcare through improved disease diagnosis, personalized treatment, wearable health monitoring, and faster drug discovery. AI enhances healthcare efficiency and accessibility while supporting doctors with accurate analysis. However, privacy, security, and ethical challenges remain important concerns that must be addressed for responsible AI adoption and future growth.
+
+B) One-shot Prompt
+
+Prompt:
+
+Example:
+
+Article:
+
+Online education allows students to learn from anywhere using digital platforms. It provides flexibility, interactive learning, and access to quality resources.
+
+Summary (50 words):
+
+Online education enables flexible learning through digital platforms. Students can access quality educational resources anytime and anywhere while benefiting from interactive lessons. Despite challenges like internet access and reduced face-to-face interaction, online learning continues to expand educational opportunities worldwide.
+
+Now summarize the following healthcare article into exactly 50 words.
+
+Generated Summary (50 words)
+
+Artificial Intelligence improves healthcare by supporting early disease detection, personalized treatments, wearable health monitoring, virtual healthcare assistance, and efficient drug discovery. It enhances medical services while reducing research time and improving patient outcomes. Responsible implementation requires strong privacy protection, ethical practices, and secure handling of healthcare data.
+
+C) Few-shot Prompt
+
+Prompt:
+
+Example 1
+
+Article:
+
+Renewable energy reduces pollution and dependence on fossil fuels.
+
+Summary (50 words):
+
+Renewable energy sources such as solar and wind reduce pollution, conserve natural resources, and promote sustainable development. Increased adoption helps combat climate change while ensuring cleaner energy for future generations despite challenges involving infrastructure and initial investment costs.
+
+Example 2
+
+Article:
+
+Cloud computing provides scalable storage, computing power, and software services over the internet.
+
+Summary (50 words):
+
+Cloud computing offers flexible storage, computing resources, and online services that reduce infrastructure costs and improve collaboration. Businesses benefit from scalability, reliability, and easy access to data while addressing security and privacy concerns through proper cloud management practices.
+
+Now summarize the following healthcare article into exactly 50 words.
+
+Generated Summary (50 words)
+
+Artificial Intelligence is transforming healthcare by enabling accurate diagnosis, personalized treatment, wearable monitoring, virtual healthcare services, and faster drug discovery. These technologies improve patient care and healthcare efficiency. Addressing privacy, security, and ethical concerns will ensure responsible AI adoption and long-term benefits for healthcare systems worldwide.
+
+Comparison of Generated Summaries
+Criteria	Zero-shot	One-shot	Few-shot
+Accuracy	High	Very High	Very High
+Completeness	Covers most key points	Includes all major points	Includes all important information
+Readability	Good	Excellent	Excellent
+Structure	Simple	Well-organized	Highly organized
+Overall Quality	Good	Better	Best
+Conclusion
+Zero-shot: Produces a good summary without any examples but may omit minor details.
+One-shot: Generates a more accurate and well-structured summary by learning from one example.
+Few-shot: Produces the most balanced summary with the highest accuracy, completeness, and readability because it learns from multiple examples before summarizing the article.
