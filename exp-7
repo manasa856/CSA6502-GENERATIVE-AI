@@ -1,0 +1,85 @@
+2. Zero-shot Prompt
+
+Prompt:
+
+Write a 200-word blog on the topic "Applications of Artificial Intelligence in Healthcare." Explain how AI is transforming healthcare, its major applications, benefits, and future impact. Use simple, informative language suitable for students and general readers.
+
+Sample Output:
+
+Applications of Artificial Intelligence in Healthcare
+
+Artificial Intelligence (AI) is transforming the healthcare industry by improving the quality, speed, and accuracy of medical services. AI-powered systems assist doctors in diagnosing diseases such as cancer, diabetes, and heart conditions by analyzing medical images and patient records. This enables earlier detection and more effective treatment.
+
+AI also supports personalized medicine by recommending treatments based on a patient's medical history and genetic information. Virtual health assistants and chatbots provide medical advice, answer patient queries, and help schedule appointments. Wearable devices equipped with AI continuously monitor heart rate, blood pressure, sleep patterns, and physical activity, helping users maintain a healthy lifestyle.
+
+Hospitals use AI to manage patient records, predict disease outbreaks, and optimize resource allocation. In medical research, AI accelerates drug discovery by analyzing vast amounts of biological data, reducing both time and costs.
+
+Despite its advantages, AI must be used responsibly to ensure patient privacy, data security, and ethical decision-making. Human expertise remains essential for final medical judgments.
+
+As AI technology continues to advance, it will play an even greater role in improving healthcare services, reducing costs, and enhancing patient outcomes worldwide.
+
+2. One-shot Prompt
+
+Prompt:
+
+Example:
+
+Topic: Applications of Artificial Intelligence in Education
+Blog (200 words): Artificial Intelligence is revolutionizing education by enabling personalized learning, automated grading, intelligent tutoring systems, and virtual classrooms. AI helps teachers identify students' strengths and weaknesses while allowing learners to study at their own pace. Educational chatbots answer questions instantly, and AI-powered analytics improve academic performance. As technology advances, AI continues to make education more accessible, efficient, and engaging.
+
+Now generate a similar 200-word blog on:
+
+Topic: Applications of Artificial Intelligence in Healthcare
+
+Sample Output:
+
+Applications of Artificial Intelligence in Healthcare
+
+Artificial Intelligence (AI) is becoming one of the most valuable technologies in modern healthcare. It helps doctors detect diseases quickly and accurately by analyzing medical images, laboratory reports, and patient records. AI supports early diagnosis of conditions such as cancer, heart disease, and neurological disorders, improving treatment outcomes.
+
+AI-powered wearable devices monitor vital signs like heart rate, oxygen levels, and sleep quality, allowing continuous health tracking. Virtual assistants and medical chatbots provide health information, remind patients to take medications, and assist in scheduling appointments.
+
+Hospitals use AI to improve patient management, reduce waiting times, and optimize the use of medical resources. In pharmaceutical research, AI speeds up drug discovery by analyzing complex biological data and predicting effective drug combinations.
+
+Although AI improves efficiency and accuracy, it cannot replace doctors. Human judgment is necessary for ethical decisions and personalized patient care. Data privacy and security are also important challenges that healthcare providers must address.
+
+With ongoing technological advancements, AI will continue to enhance healthcare by improving diagnosis, treatment, research, and patient care, making healthcare services more accessible and efficient for people around the world.
+
+3. Few-shot Prompt
+
+Prompt:
+
+Example 1:
+
+Topic: Applications of AI in Education
+Blog: AI personalizes learning, automates grading, and supports intelligent tutoring systems, making education more effective and accessible.
+
+Example 2:
+
+Topic: Applications of AI in Agriculture
+Blog: AI helps farmers monitor crops, predict weather, detect plant diseases, and improve irrigation for better productivity.
+
+Example 3:
+
+Topic: Applications of AI in Banking
+Blog: AI detects fraud, automates customer service through chatbots, assesses credit risk, and provides personalized financial recommendations.
+
+Now generate a 200-word blog on:
+
+Topic: Applications of Artificial Intelligence in Healthcare
+
+Sample Output:
+
+Applications of Artificial Intelligence in Healthcare
+
+Artificial Intelligence (AI) is transforming healthcare by improving diagnosis, treatment, and patient care. AI algorithms analyze medical images such as X-rays, CT scans, and MRIs to detect diseases with high accuracy. This helps doctors diagnose illnesses earlier and provide timely treatment.
+
+AI also plays an important role in personalized medicine by analyzing a patient's medical history, lifestyle, and genetic information to recommend customized treatment plans. Wearable health devices powered by AI monitor heart rate, blood pressure, sleep, and physical activity, providing real-time health insights.
+
+Medical chatbots and virtual assistants answer common health questions, schedule appointments, and remind patients to take medications. Hospitals use AI to manage electronic health records, predict patient admissions, and improve operational efficiency.
+
+In pharmaceutical research, AI accelerates drug discovery and clinical trials by analyzing large datasets and identifying promising drug candidates. This significantly reduces research time and costs.
+
+While AI offers numerous benefits, maintaining patient privacy, data security, and ethical standards remains essential. AI should complement healthcare professionals rather than replace them.
+
+As AI continues to evolve, it will revolutionize healthcare by making medical services faster, more accurate, more affordable, and more accessible, ultimately improving the quality of life for people across the globe.
