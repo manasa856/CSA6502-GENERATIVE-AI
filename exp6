@@ -1,0 +1,56 @@
+1. Zero-shot Prompt
+
+Prompt:
+
+Write a compelling product description for a Smart Fitness Watch. Highlight its key features, health monitoring capabilities, fitness tracking, battery life, and stylish design. Use a professional and persuasive tone suitable for an online shopping website.
+
+Sample Output:
+
+Smart Fitness Watch – Your Perfect Fitness Companion
+Stay active and connected with the Smart Fitness Watch. It features heart rate monitoring, blood oxygen (SpO₂) tracking, sleep analysis, step counting, and multiple sports modes to help you achieve your fitness goals. Enjoy smart notifications, water resistance, and up to 10 days of battery life in a sleek, lightweight design. Whether you're working out or managing your daily routine, this smartwatch keeps you informed and motivated.
+
+2. One-shot Prompt
+
+Prompt:
+
+Example:
+
+Product: Wireless Bluetooth Earbuds
+Description: Experience crystal-clear sound with wireless Bluetooth earbuds featuring noise cancellation, touch controls, and up to 24 hours of battery life. Perfect for music, calls, and workouts with a comfortable and lightweight design.
+
+Now generate a similar product description for:
+
+Product: Smart Fitness Watch
+
+Sample Output:
+
+Smart Fitness Watch
+Track your health and fitness with the Smart Fitness Watch. Equipped with heart rate monitoring, sleep tracking, blood oxygen measurement, and multiple workout modes, it helps you stay on top of your wellness goals. Receive call and message notifications, enjoy water-resistant protection, and experience long-lasting battery performance. Its stylish and comfortable design makes it ideal for everyday use.
+
+3. Few-shot Prompt
+
+Prompt:
+
+Example 1:
+
+Product: Wireless Bluetooth Earbuds
+Description: Enjoy premium sound quality with Bluetooth 5.3 connectivity, noise cancellation, touch controls, and a 24-hour battery life.
+
+Example 2:
+
+Product: Smart Water Bottle
+Description: Stay hydrated with a smart water bottle that tracks your water intake, reminds you to drink, and syncs with your smartphone.
+
+Example 3:
+
+Product: Portable Power Bank
+Description: Charge your devices anywhere with a 20,000mAh power bank featuring fast charging, dual USB ports, and compact portability.
+
+Now generate a product description for:
+
+Product: Smart Fitness Watch
+
+Sample Output:
+
+Smart Fitness Watch
+Achieve your health and fitness goals with the Smart Fitness Watch. It offers real-time heart rate monitoring, blood oxygen tracking, sleep analysis, calorie counting, and over 100 sports modes. Stay connected with call, message, and app notifications while enjoying GPS support, water resistance, and up to 10 days of battery life. Combining advanced technology with a sleek, modern design, this smartwatch is the perfect companion for an active lifestyle.
